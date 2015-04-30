@@ -1,0 +1,30 @@
+[
+  {
+    "cities": "Seattle",
+    "image": "images/Seattle.jpg",
+  },
+  {
+    "cities": "Redmond",
+    "image": "images/Redmond.jpg",
+  },
+  {
+    "cities": "Dinand",
+    "image": "images/Dinand_Night.jpg",
+  },
+  {
+    "cities": "Bellevue",
+    "image": "images/Bellevue.jpg",
+  },
+  {
+    "cities": "Kirkland",
+    "image": "images/Kirkland.jpg",
+  },
+  {
+    "cities": "Tacoma",
+    "image": "images/Tacoma.jpg",
+  },
+  {
+    "cities": "Olympia",
+    "image": "images/Olympia.jpg",
+  }
+]

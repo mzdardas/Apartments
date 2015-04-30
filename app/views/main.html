@@ -1,0 +1,13 @@
+<h1 class="title" style="text-align: center;">elethera</h1>
+
+<!--anumera, epignosis-->
+<div class="container-fluid" ng-model="apartments">
+  <div class="row-fluid">
+
+    <div ng-repeat="apartment in apartments" class="col-xs-12 col-md-6">
+      <img ng-src={{apartment.image}} alt={{apartment.city}} style="width: 100%; padding: 15px 5px;"/>
+      <h2 class="buildName"><a ng-href="#apartments/{{apartment.city}}" role="button">{{apartment.city}}</a></h2>
+    </div>
+
+  </div>
+</div>
